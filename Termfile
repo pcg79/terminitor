@@ -1,0 +1,7 @@
+# Terminitor Termfile
+
+setup 'bundle install'
+
+run 'watchr test.watchr'
+tab "irb"
+tab "open 'http://www.github.com/achiu/terminitor/issues'"
